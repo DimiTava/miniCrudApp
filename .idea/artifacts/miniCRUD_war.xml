@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="miniCRUD-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="miniCRUD:war exploded" />
-      <element id="file-copy" path="$USER_HOME$/Desktop/mysql-connector-java-5.1.45-bin.jar" />
     </root>
   </artifact>
 </component>

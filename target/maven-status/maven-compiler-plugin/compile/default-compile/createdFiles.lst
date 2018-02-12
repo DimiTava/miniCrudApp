@@ -1,2 +1,9 @@
-com\miniCRUD\MyUI.class
+com\miniCRUD\Customer.class
+com\miniCRUD\CustomerForm.class
 com\miniCRUD\MyUI$MyUIServlet.class
+com\miniCRUD\CustomerService$2.class
+com\miniCRUD\CustomerStatus.class
+com\miniCRUD\Servlet.class
+com\miniCRUD\MyUI.class
+com\miniCRUD\CustomerService$1.class
+com\miniCRUD\CustomerService.class
