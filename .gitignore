@@ -1,6 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
 
-.idea
+# Intellij
+.idea/
+*.iml
 *.iws
+
+# Mac
 .DS_Store
-out/
+
+# Maven
+log/
 target/
+
+# Global
+overlays/
