@@ -17,3 +17,6 @@ target/
 
 # Global
 overlays/
+
+# Mine
+extras/
